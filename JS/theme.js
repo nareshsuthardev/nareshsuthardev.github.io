@@ -212,7 +212,7 @@ const socialLinks = [
     //     iconClass: "fab fa-twitter"
     //   },
     {
-        href: "#",
+        href: "https://www.instagram.com/itsnareshdev/",
         class: "instagram",
         title: "Instagram",
         iconClass: "fab fa-instagram"
