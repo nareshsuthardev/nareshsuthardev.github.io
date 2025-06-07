@@ -730,8 +730,8 @@ header {
 
   .chip:hover,
   .chip:focus-visible {
-    background: #e5e7eb;
-    box-shadow: 0 4px 12px rgba(107, 114, 128, 0.15);
+    /* background: #e5e7eb;
+    box-shadow: 0 4px 12px rgba(107, 114, 128, 0.15); */
     outline: none;
   }
 }
